@@ -1,12 +1,12 @@
 
 # A simple piano with react js
 
-![Screenshot](/Piano.png)
+![Demostration](/demostration.gif)
 
 You can click on the keys or press keyboard to play
 
-![Demostration](/demostration.gif)
 
+![Screenshot](/Piano.png)
 
 #ReactJs
 
