@@ -1,0 +1,180 @@
+{
+  "blacks":[
+    {
+      "index": 0,
+      "sound": "/sounds/c-3.mp3",
+      "key": "1",
+      "name": "C3#"
+    },
+    {
+      "index": 1,
+      "sound": "/sounds/d-3.mp3",
+      "key": "2",
+      "name": "D3#"
+    },
+    {
+      "index": 2,
+      "sound": "/sounds/f-3.mp3",
+      "key": "3",
+      "name": "F3#"
+    },
+    {
+      "index": 3,
+      "sound": "/sounds/g-3.mp3",
+      "key": "4",
+      "name": "G3#"
+    },
+    {
+      "index": 4,
+      "sound": "/sounds/a-3.mp3",
+      "key": "5",
+      "name": "A3#"
+    },
+    {
+      "index": 5,
+      "sound": "/sounds/c-4.mp3",
+      "key": "6",
+      "name": "C4#"
+    },
+    {
+      "index": 6,
+      "sound": "/sounds/d-4.mp3",
+      "key": "7",
+      "name": "D4#"
+    },
+    {
+      "index": 7,
+      "sound": "/sounds/f-4.mp3",
+      "key": "8",
+      "name": "F4#"
+    },
+    {
+      "index": 8,
+      "sound": "/sounds/g-4.mp3",
+      "key": "9",
+      "name": "G4#"
+    },
+    {
+      "index": 9,
+      "sound": "/sounds/a-4.mp3",
+      "key": "0",
+      "name": "A4#"
+    },
+    {
+      "index": 10,
+      "sound": "/sounds/c-5.mp3",
+      "key": "o",
+      "name": "C5#"
+    },
+    {
+      "index": 11,
+      "sound": "/sounds/d-5.mp3",
+      "key": "p",
+      "name": "D5#"
+    }
+  ],
+  "whites": [
+    {
+      "index": 0,
+      "sound": "/sounds/c3.mp3",
+      "key": "a",
+      "name": "C3"
+    },
+    {
+      "index": 1,
+      "sound": "/sounds/d3.mp3",
+      "key": "s",
+      "name": "D3"
+    },
+    {
+      "index": 2,
+      "sound": "/sounds/e3.mp3",
+      "key": "d",
+      "name": "E3"
+    },
+    {
+      "index": 3,
+      "sound": "/sounds/f3.mp3",
+      "key": "f",
+      "name": "F3"
+    },
+    {
+      "index": 4,
+      "sound": "/sounds/g3.mp3",
+      "key": "g",
+      "name": "G3"
+    },
+    {
+      "index": 5,
+      "sound": "/sounds/a3.mp3",
+      "key": "h",
+      "name": "A3"
+    },
+    {
+      "index": 6,
+      "sound": "/sounds/c4.mp3",
+      "key": "j",
+      "name": "C4"
+    },
+    {
+      "index": 7,
+      "sound": "/sounds/d4.mp3",
+      "key": "k",
+      "name": "D4"
+    },
+    {
+      "index": 8,
+      "sound": "/sounds/e4.mp3",
+      "key": "l",
+      "name": "E4"
+    },
+    {
+      "index": 9,
+      "sound": "/sounds/f4.mp3",
+      "key": "z",
+      "name": "F4"
+    },
+    {
+      "index": 10,
+      "sound": "/sounds/g4.mp3",
+      "key": "x",
+      "name": "G4"
+    },
+    {
+      "index": 11,
+      "sound": "/sounds/a4.mp3",
+      "key": "c",
+      "name": "A4"
+    },
+    {
+      "index": 12,
+      "sound": "/sounds/b4.mp3",
+      "key": "v",
+      "name": "B4"
+    },
+    {
+      "index": 13,
+      "sound": "/sounds/c5.mp3",
+      "key": "b",
+      "name": "C5"
+    },
+    {
+      "index": 14,
+      "sound": "/sounds/d5.mp3",
+      "key": "n",
+      "name": "D5"
+    },
+    {
+      "index": 15,
+      "sound": "/sounds/e5.mp3",
+      "key": "m",
+      "name": "E5"
+    },
+    {
+      "index": 16,
+      "sound": "/sounds/f5.mp3",
+      "key": ",",
+      "name": "F5"
+    }
+  ]
+}

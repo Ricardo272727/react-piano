@@ -1,0 +1,64 @@
+body{
+  background: black !important;
+}
+.piano{
+  width: 65%;
+  position: relative;
+  background: white;
+  margin: 0 auto;
+  button{
+    border: none;
+    box-shadow: 1px 1px 4px black;
+    padding: 0.5rem 1rem; 
+    outline: none;
+    border-bottom: 1px solid transparent;
+    line-height: 90%;
+    &.press{
+      transform: scaleY(0.99);
+    }
+  }
+
+
+  .blacks{
+    position: absolute;
+    top: 0;
+    left: 0;
+    button{
+      background: black;
+      color: white;    
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+      padding-top: 10rem;
+    }
+    .short, .large{
+      position: relative;
+      float: left;
+    }
+    .short{
+      margin-left: 1.6rem;       
+      button:nth-child(2){
+        margin-left: 0.5rem;
+      }
+    }
+    .large{
+      margin-left: 3.5rem; 
+      margin-right: 1.5rem;
+      button:nth-child(2){
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+      }
+    }
+  } 
+
+  .whites{
+    button{
+      background: white;
+      color: black; 
+      padding-top: 20rem;
+      &.press{
+        background: rgba(0,0,0,.1);
+        border-bottom: 1px solid black;
+      }
+    }
+  }
+}
